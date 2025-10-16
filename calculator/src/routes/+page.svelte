@@ -34,7 +34,7 @@
 	<div style="margin-top: 40px;">
 		<h4 style="margin-bottom: 20px;">
 			Public holidays by weekday in
-			<select bind:value={selectedYear} class="border-2 border-black bg-transparent" style="padding: 4px;">
+			<select bind:value={selectedYear} class="border-2 border-black" style="padding: 4px;">
 				{#each years as year}
 					<option value={year}>{year}</option>
 				{/each}
