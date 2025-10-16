@@ -24,7 +24,7 @@
     <p style="margin-top: 20px;">What's the best day to drop if you're going to a four day week?</p>
         <p style="margin-top: 20px;">Depends on where you live:</p>
 	<div style="margin-top: 20px;">
-		<select bind:value={selectedRegion} class="border-2 border-black bg-transparent" style="padding: 4px;">
+		<select bind:value={selectedRegion} class="border-2 border-black" style="padding: 4px;">
 			{#each regions as region}
 				<option value={region}>{region}</option>
 			{/each}
