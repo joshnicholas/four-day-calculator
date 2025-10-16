@@ -60,6 +60,7 @@
 		{/each}
 
 
+		
 		{#each orderedData as item}
 			{#if item}
 				<rect
