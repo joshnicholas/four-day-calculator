@@ -10,33 +10,33 @@
         "Western Australia": "[{\"Weekday\":\"Friday\",\"Count\":3},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1},{\"Weekday\":\"Wednesday\",\"Count\":1}]"
     },
     "2026": {
-        "Australian Capital Territory": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":7},{\"Weekday\":\"Saturday\",\"Count\":3},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
-        "New South Wales": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":3},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
-        "Northern Territory": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":3},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
-        "Queensland": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":3},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
-        "South Australia": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":3},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
+        "Australian Capital Territory": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":7},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
+        "New South Wales": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
+        "Northern Territory": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
+        "Queensland": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
+        "South Australia": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
         "Tasmania": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]",
-        "Victoria": "[{\"Weekday\":\"Friday\",\"Count\":3},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":3},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":1}]",
-        "Western Australia": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":7},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]"
+        "Victoria": "[{\"Weekday\":\"Friday\",\"Count\":3},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":1}]",
+        "Western Australia": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":7},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Thursday\",\"Count\":1}]"
     },
     "2027": {
-        "Australian Capital Territory": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":7},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":2},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
-        "New South Wales": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":4},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":3},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
-        "Northern Territory": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":2},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
-        "Queensland": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":2},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
-        "South Australia": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":3},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
-        "Tasmania": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":4},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
-        "Victoria": "[{\"Weekday\":\"Friday\",\"Count\":3},{\"Weekday\":\"Monday\",\"Count\":4},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":3},{\"Weekday\":\"Tuesday\",\"Count\":3}]",
-        "Western Australia": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":3},{\"Weekday\":\"Tuesday\",\"Count\":2}]"
+        "Australian Capital Territory": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":7},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
+        "New South Wales": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":4},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":2},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
+        "Northern Territory": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
+        "Queensland": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
+        "South Australia": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":2},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
+        "Tasmania": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":4},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2}]",
+        "Victoria": "[{\"Weekday\":\"Friday\",\"Count\":3},{\"Weekday\":\"Monday\",\"Count\":4},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":2},{\"Weekday\":\"Tuesday\",\"Count\":3}]",
+        "Western Australia": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2}]"
     },
     "2028": {
-        "Australian Capital Territory": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":7},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
-        "New South Wales": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
-        "Northern Territory": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
-        "Queensland": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":2}]",
-        "South Australia": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
+        "Australian Capital Territory": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":7},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
+        "New South Wales": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
+        "Northern Territory": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
+        "Queensland": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":2}]",
+        "South Australia": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
         "Tasmania": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
-        "Victoria": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":2},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":3},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
-        "Western Australia": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]"
+        "Victoria": "[{\"Weekday\":\"Friday\",\"Count\":2},{\"Weekday\":\"Monday\",\"Count\":5},{\"Weekday\":\"Saturday\",\"Count\":1},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":3},{\"Weekday\":\"Wednesday\",\"Count\":1}]",
+        "Western Australia": "[{\"Weekday\":\"Friday\",\"Count\":1},{\"Weekday\":\"Monday\",\"Count\":6},{\"Weekday\":\"Sunday\",\"Count\":1},{\"Weekday\":\"Tuesday\",\"Count\":2},{\"Weekday\":\"Wednesday\",\"Count\":1}]"
     }
 }
