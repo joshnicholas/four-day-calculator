@@ -1,0 +1,404 @@
+Date,Day,State,Weekday
+2025-04-18,Good Friday,ACT,Friday
+2025-04-21,Easter Monday,ACT,Monday
+2025-01-01,New Year's Day,ACT,Wednesday
+2025-01-27,Australia Day,ACT,Monday
+2025-03-10,Canberra Day,ACT,Monday
+2025-04-25,ANZAC Day,ACT,Friday
+2025-04-19,Easter Saturday,ACT,Saturday
+2025-04-20,Easter Sunday,ACT,Sunday
+2025-06-02,Reconciliation Day,ACT,Monday
+2025-06-09,King's Birthday,ACT,Monday
+2025-10-06,Labour Day,ACT,Monday
+2025-12-26,Boxing Day,ACT,Friday
+2025-12-25,Christmas Day,ACT,Thursday
+2026-04-03,Good Friday,ACT,Friday
+2026-04-06,Easter Monday,ACT,Monday
+2026-01-01,New Year's Day,ACT,Thursday
+2026-01-26,Australia Day,ACT,Monday
+2026-03-09,Canberra Day,ACT,Monday
+2026-04-25,ANZAC Day,ACT,Saturday
+2026-04-04,Easter Saturday,ACT,Saturday
+2026-04-05,Easter Sunday,ACT,Sunday
+2026-06-01,Reconciliation Day,ACT,Monday
+2026-06-08,King's Birthday,ACT,Monday
+2026-10-05,Labour Day,ACT,Monday
+2026-12-26,Boxing Day,ACT,Saturday
+2026-12-28,Boxing Day (observed),ACT,Monday
+2026-12-25,Christmas Day,ACT,Friday
+2027-03-26,Good Friday,ACT,Friday
+2027-03-29,Easter Monday,ACT,Monday
+2027-01-01,New Year's Day,ACT,Friday
+2027-01-26,Australia Day,ACT,Tuesday
+2027-03-08,Canberra Day,ACT,Monday
+2027-04-26,ANZAC Day,ACT,Monday
+2027-03-27,Easter Saturday,ACT,Saturday
+2027-03-28,Easter Sunday,ACT,Sunday
+2027-05-31,Reconciliation Day,ACT,Monday
+2027-06-14,King's Birthday,ACT,Monday
+2027-10-04,Labour Day,ACT,Monday
+2027-12-26,Boxing Day,ACT,Sunday
+2027-12-28,Boxing Day (observed),ACT,Tuesday
+2027-12-25,Christmas Day,ACT,Saturday
+2027-12-27,Christmas Day (observed),ACT,Monday
+2028-04-14,Good Friday,ACT,Friday
+2028-04-17,Easter Monday,ACT,Monday
+2028-01-01,New Year's Day,ACT,Saturday
+2028-01-03,New Year's Day (observed),ACT,Monday
+2028-01-26,Australia Day,ACT,Wednesday
+2028-03-13,Canberra Day,ACT,Monday
+2028-04-25,ANZAC Day,ACT,Tuesday
+2028-04-15,Easter Saturday,ACT,Saturday
+2028-04-16,Easter Sunday,ACT,Sunday
+2028-05-29,Reconciliation Day,ACT,Monday
+2028-06-12,King's Birthday,ACT,Monday
+2028-10-02,Labour Day,ACT,Monday
+2028-12-26,Boxing Day,ACT,Tuesday
+2028-12-25,Christmas Day,ACT,Monday
+2025-04-18,Good Friday,NSW,Friday
+2025-04-21,Easter Monday,NSW,Monday
+2025-01-01,New Year's Day,NSW,Wednesday
+2025-01-27,Australia Day,NSW,Monday
+2025-04-19,Easter Saturday,NSW,Saturday
+2025-04-20,Easter Sunday,NSW,Sunday
+2025-04-25,ANZAC Day,NSW,Friday
+2025-10-06,Labour Day,NSW,Monday
+2025-06-09,King's Birthday,NSW,Monday
+2025-12-25,Christmas Day,NSW,Thursday
+2025-12-26,Boxing Day,NSW,Friday
+2026-04-03,Good Friday,NSW,Friday
+2026-04-06,Easter Monday,NSW,Monday
+2026-01-01,New Year's Day,NSW,Thursday
+2026-01-26,Australia Day,NSW,Monday
+2026-04-04,Easter Saturday,NSW,Saturday
+2026-04-05,Easter Sunday,NSW,Sunday
+2026-04-25,ANZAC Day,NSW,Saturday
+2026-10-05,Labour Day,NSW,Monday
+2026-06-08,King's Birthday,NSW,Monday
+2026-12-25,Christmas Day,NSW,Friday
+2026-12-26,Boxing Day,NSW,Saturday
+2026-12-28,Boxing Day (observed),NSW,Monday
+2027-03-26,Good Friday,NSW,Friday
+2027-03-29,Easter Monday,NSW,Monday
+2027-01-01,New Year's Day,NSW,Friday
+2027-01-26,Australia Day,NSW,Tuesday
+2027-03-27,Easter Saturday,NSW,Saturday
+2027-03-28,Easter Sunday,NSW,Sunday
+2027-04-25,ANZAC Day,NSW,Sunday
+2027-10-04,Labour Day,NSW,Monday
+2027-06-14,King's Birthday,NSW,Monday
+2027-12-25,Christmas Day,NSW,Saturday
+2027-12-27,Christmas Day (observed),NSW,Monday
+2027-12-26,Boxing Day,NSW,Sunday
+2027-12-28,Boxing Day (observed),NSW,Tuesday
+2028-04-14,Good Friday,NSW,Friday
+2028-04-17,Easter Monday,NSW,Monday
+2028-01-01,New Year's Day,NSW,Saturday
+2028-01-03,New Year's Day (observed),NSW,Monday
+2028-01-26,Australia Day,NSW,Wednesday
+2028-04-15,Easter Saturday,NSW,Saturday
+2028-04-16,Easter Sunday,NSW,Sunday
+2028-04-25,ANZAC Day,NSW,Tuesday
+2028-10-02,Labour Day,NSW,Monday
+2028-06-12,King's Birthday,NSW,Monday
+2028-12-25,Christmas Day,NSW,Monday
+2028-12-26,Boxing Day,NSW,Tuesday
+2025-04-18,Good Friday,NT,Friday
+2025-04-21,Easter Monday,NT,Monday
+2025-01-01,New Year's Day,NT,Wednesday
+2025-01-27,Australia Day,NT,Monday
+2025-04-25,ANZAC Day,NT,Friday
+2025-04-19,Easter Saturday,NT,Saturday
+2025-04-20,Easter Sunday,NT,Sunday
+2025-05-05,May Day,NT,Monday
+2025-06-09,King's Birthday,NT,Monday
+2025-08-04,Picnic Day,NT,Monday
+2025-12-26,Boxing Day,NT,Friday
+2025-12-25,Christmas Day,NT,Thursday
+2026-04-03,Good Friday,NT,Friday
+2026-04-06,Easter Monday,NT,Monday
+2026-01-01,New Year's Day,NT,Thursday
+2026-01-26,Australia Day,NT,Monday
+2026-04-25,ANZAC Day,NT,Saturday
+2026-04-04,Easter Saturday,NT,Saturday
+2026-04-05,Easter Sunday,NT,Sunday
+2026-05-04,May Day,NT,Monday
+2026-06-08,King's Birthday,NT,Monday
+2026-08-03,Picnic Day,NT,Monday
+2026-12-26,Boxing Day,NT,Saturday
+2026-12-28,Boxing Day (observed),NT,Monday
+2026-12-25,Christmas Day,NT,Friday
+2027-03-26,Good Friday,NT,Friday
+2027-03-29,Easter Monday,NT,Monday
+2027-01-01,New Year's Day,NT,Friday
+2027-01-26,Australia Day,NT,Tuesday
+2027-04-26,ANZAC Day,NT,Monday
+2027-03-27,Easter Saturday,NT,Saturday
+2027-03-28,Easter Sunday,NT,Sunday
+2027-05-03,May Day,NT,Monday
+2027-06-14,King's Birthday,NT,Monday
+2027-08-02,Picnic Day,NT,Monday
+2027-12-26,Boxing Day,NT,Sunday
+2027-12-28,Boxing Day (observed),NT,Tuesday
+2027-12-25,Christmas Day,NT,Saturday
+2027-12-27,Christmas Day (observed),NT,Monday
+2028-04-14,Good Friday,NT,Friday
+2028-04-17,Easter Monday,NT,Monday
+2028-01-01,New Year's Day,NT,Saturday
+2028-01-03,New Year's Day (observed),NT,Monday
+2028-01-26,Australia Day,NT,Wednesday
+2028-04-25,ANZAC Day,NT,Tuesday
+2028-04-15,Easter Saturday,NT,Saturday
+2028-04-16,Easter Sunday,NT,Sunday
+2028-05-01,May Day,NT,Monday
+2028-06-12,King's Birthday,NT,Monday
+2028-08-07,Picnic Day,NT,Monday
+2028-12-26,Boxing Day,NT,Tuesday
+2028-12-25,Christmas Day,NT,Monday
+2025-04-18,Good Friday,QLD,Friday
+2025-04-21,Easter Monday,QLD,Monday
+2025-01-01,New Year's Day,QLD,Wednesday
+2025-01-27,Australia Day,QLD,Monday
+2025-04-25,ANZAC Day,QLD,Friday
+2025-04-19,Easter Saturday,QLD,Saturday
+2025-04-20,Easter Sunday,QLD,Sunday
+2025-05-05,Labour Day,QLD,Monday
+2025-10-06,King's Birthday,QLD,Monday
+2025-08-13,The Royal Queensland Show,QLD,Wednesday
+2025-12-26,Boxing Day,QLD,Friday
+2025-12-25,Christmas Day,QLD,Thursday
+2026-04-03,Good Friday,QLD,Friday
+2026-04-06,Easter Monday,QLD,Monday
+2026-01-01,New Year's Day,QLD,Thursday
+2026-01-26,Australia Day,QLD,Monday
+2026-04-25,ANZAC Day,QLD,Saturday
+2026-04-04,Easter Saturday,QLD,Saturday
+2026-04-05,Easter Sunday,QLD,Sunday
+2026-05-04,Labour Day,QLD,Monday
+2026-10-05,King's Birthday,QLD,Monday
+2026-08-12,The Royal Queensland Show,QLD,Wednesday
+2026-12-26,Boxing Day,QLD,Saturday
+2026-12-28,Boxing Day (observed),QLD,Monday
+2026-12-25,Christmas Day,QLD,Friday
+2027-03-26,Good Friday,QLD,Friday
+2027-03-29,Easter Monday,QLD,Monday
+2027-01-01,New Year's Day,QLD,Friday
+2027-01-26,Australia Day,QLD,Tuesday
+2027-04-26,ANZAC Day,QLD,Monday
+2027-03-27,Easter Saturday,QLD,Saturday
+2027-03-28,Easter Sunday,QLD,Sunday
+2027-05-03,Labour Day,QLD,Monday
+2027-10-04,King's Birthday,QLD,Monday
+2027-08-11,The Royal Queensland Show,QLD,Wednesday
+2027-12-26,Boxing Day,QLD,Sunday
+2027-12-28,Boxing Day (observed),QLD,Tuesday
+2027-12-25,Christmas Day,QLD,Saturday
+2027-12-27,Christmas Day (observed),QLD,Monday
+2028-04-14,Good Friday,QLD,Friday
+2028-04-17,Easter Monday,QLD,Monday
+2028-01-01,New Year's Day,QLD,Saturday
+2028-01-03,New Year's Day (observed),QLD,Monday
+2028-01-26,Australia Day,QLD,Wednesday
+2028-04-25,ANZAC Day,QLD,Tuesday
+2028-04-15,Easter Saturday,QLD,Saturday
+2028-04-16,Easter Sunday,QLD,Sunday
+2028-05-01,Labour Day,QLD,Monday
+2028-10-02,King's Birthday,QLD,Monday
+2028-08-16,The Royal Queensland Show,QLD,Wednesday
+2028-12-26,Boxing Day,QLD,Tuesday
+2028-12-25,Christmas Day,QLD,Monday
+2025-04-18,Good Friday,SA,Friday
+2025-04-21,Easter Monday,SA,Monday
+2025-01-01,New Year's Day,SA,Wednesday
+2025-01-27,Australia Day,SA,Monday
+2025-03-10,Adelaide Cup Day,SA,Monday
+2025-04-19,Easter Saturday,SA,Saturday
+2025-04-20,Easter Sunday,SA,Sunday
+2025-04-25,ANZAC Day,SA,Friday
+2025-06-09,King's Birthday,SA,Monday
+2025-10-06,Labour Day,SA,Monday
+2025-12-26,Proclamation Day,SA,Friday
+2025-12-25,Christmas Day,SA,Thursday
+2026-04-03,Good Friday,SA,Friday
+2026-04-06,Easter Monday,SA,Monday
+2026-01-01,New Year's Day,SA,Thursday
+2026-01-26,Australia Day,SA,Monday
+2026-03-09,Adelaide Cup Day,SA,Monday
+2026-04-04,Easter Saturday,SA,Saturday
+2026-04-05,Easter Sunday,SA,Sunday
+2026-04-25,ANZAC Day,SA,Saturday
+2026-06-08,King's Birthday,SA,Monday
+2026-10-05,Labour Day,SA,Monday
+2026-12-26,Proclamation Day,SA,Saturday
+2026-12-28,Proclamation Day (observed),SA,Monday
+2026-12-25,Christmas Day,SA,Friday
+2027-03-26,Good Friday,SA,Friday
+2027-03-29,Easter Monday,SA,Monday
+2027-01-01,New Year's Day,SA,Friday
+2027-01-26,Australia Day,SA,Tuesday
+2027-03-08,Adelaide Cup Day,SA,Monday
+2027-03-27,Easter Saturday,SA,Saturday
+2027-03-28,Easter Sunday,SA,Sunday
+2027-04-25,ANZAC Day,SA,Sunday
+2027-06-14,King's Birthday,SA,Monday
+2027-10-04,Labour Day,SA,Monday
+2027-12-26,Proclamation Day,SA,Sunday
+2027-12-28,Proclamation Day (observed),SA,Tuesday
+2027-12-25,Christmas Day,SA,Saturday
+2027-12-27,Christmas Day (observed),SA,Monday
+2028-04-14,Good Friday,SA,Friday
+2028-04-17,Easter Monday,SA,Monday
+2028-01-01,New Year's Day,SA,Saturday
+2028-01-03,New Year's Day (observed),SA,Monday
+2028-01-26,Australia Day,SA,Wednesday
+2028-03-13,Adelaide Cup Day,SA,Monday
+2028-04-15,Easter Saturday,SA,Saturday
+2028-04-16,Easter Sunday,SA,Sunday
+2028-04-25,ANZAC Day,SA,Tuesday
+2028-06-12,King's Birthday,SA,Monday
+2028-10-02,Labour Day,SA,Monday
+2028-12-26,Proclamation Day,SA,Tuesday
+2028-12-25,Christmas Day,SA,Monday
+2025-04-18,Good Friday,TAS,Friday
+2025-04-21,Easter Monday,TAS,Monday
+2025-01-01,New Year's Day,TAS,Wednesday
+2025-01-27,Australia Day,TAS,Monday
+2025-03-10,Eight Hours Day,TAS,Monday
+2025-04-25,ANZAC Day,TAS,Friday
+2025-06-09,King's Birthday,TAS,Monday
+2025-12-25,Christmas Day,TAS,Thursday
+2025-12-26,Boxing Day,TAS,Friday
+2026-04-03,Good Friday,TAS,Friday
+2026-04-06,Easter Monday,TAS,Monday
+2026-01-01,New Year's Day,TAS,Thursday
+2026-01-26,Australia Day,TAS,Monday
+2026-03-09,Eight Hours Day,TAS,Monday
+2026-04-25,ANZAC Day,TAS,Saturday
+2026-06-08,King's Birthday,TAS,Monday
+2026-12-25,Christmas Day,TAS,Friday
+2026-12-28,Boxing Day,TAS,Monday
+2027-03-26,Good Friday,TAS,Friday
+2027-03-29,Easter Monday,TAS,Monday
+2027-01-01,New Year's Day,TAS,Friday
+2027-01-26,Australia Day,TAS,Tuesday
+2027-03-08,Eight Hours Day,TAS,Monday
+2027-04-25,ANZAC Day,TAS,Sunday
+2027-06-14,King's Birthday,TAS,Monday
+2027-12-25,Christmas Day,TAS,Saturday
+2027-12-27,Christmas Day (observed),TAS,Monday
+2027-12-28,Boxing Day,TAS,Tuesday
+2028-04-14,Good Friday,TAS,Friday
+2028-04-17,Easter Monday,TAS,Monday
+2028-01-03,New Year's Day,TAS,Monday
+2028-01-26,Australia Day,TAS,Wednesday
+2028-03-13,Eight Hours Day,TAS,Monday
+2028-04-25,ANZAC Day,TAS,Tuesday
+2028-06-12,King's Birthday,TAS,Monday
+2028-12-25,Christmas Day,TAS,Monday
+2028-12-26,Boxing Day,TAS,Tuesday
+2025-04-18,Good Friday,VIC,Friday
+2025-04-21,Easter Monday,VIC,Monday
+2025-01-01,New Year's Day,VIC,Wednesday
+2025-01-27,Australia Day,VIC,Monday
+2025-03-10,Labour Day,VIC,Monday
+2025-04-19,Easter Saturday,VIC,Saturday
+2025-04-20,Easter Sunday,VIC,Sunday
+2025-04-25,ANZAC Day,VIC,Friday
+2025-06-09,King's Birthday,VIC,Monday
+2025-09-26,Grand Final Day,VIC,Friday
+2025-11-04,Melbourne Cup Day,VIC,Tuesday
+2025-12-25,Christmas Day,VIC,Thursday
+2025-12-26,Boxing Day,VIC,Friday
+2026-04-03,Good Friday,VIC,Friday
+2026-04-06,Easter Monday,VIC,Monday
+2026-01-01,New Year's Day,VIC,Thursday
+2026-01-26,Australia Day,VIC,Monday
+2026-03-09,Labour Day,VIC,Monday
+2026-04-04,Easter Saturday,VIC,Saturday
+2026-04-05,Easter Sunday,VIC,Sunday
+2026-04-25,ANZAC Day,VIC,Saturday
+2026-06-08,King's Birthday,VIC,Monday
+2026-09-25,Grand Final Day,VIC,Friday
+2026-11-03,Melbourne Cup Day,VIC,Tuesday
+2026-12-25,Christmas Day,VIC,Friday
+2026-12-26,Boxing Day,VIC,Saturday
+2026-12-28,Boxing Day (observed),VIC,Monday
+2027-03-26,Good Friday,VIC,Friday
+2027-03-29,Easter Monday,VIC,Monday
+2027-01-01,New Year's Day,VIC,Friday
+2027-01-26,Australia Day,VIC,Tuesday
+2027-03-08,Labour Day,VIC,Monday
+2027-03-27,Easter Saturday,VIC,Saturday
+2027-03-28,Easter Sunday,VIC,Sunday
+2027-04-25,ANZAC Day,VIC,Sunday
+2027-06-14,King's Birthday,VIC,Monday
+2027-09-24,Grand Final Day,VIC,Friday
+2027-11-02,Melbourne Cup Day,VIC,Tuesday
+2027-12-25,Christmas Day,VIC,Saturday
+2027-12-27,Christmas Day (observed),VIC,Monday
+2027-12-26,Boxing Day,VIC,Sunday
+2027-12-28,Boxing Day (observed),VIC,Tuesday
+2028-04-14,Good Friday,VIC,Friday
+2028-04-17,Easter Monday,VIC,Monday
+2028-01-01,New Year's Day,VIC,Saturday
+2028-01-03,New Year's Day (observed),VIC,Monday
+2028-01-26,Australia Day,VIC,Wednesday
+2028-03-13,Labour Day,VIC,Monday
+2028-04-15,Easter Saturday,VIC,Saturday
+2028-04-16,Easter Sunday,VIC,Sunday
+2028-04-25,ANZAC Day,VIC,Tuesday
+2028-06-12,King's Birthday,VIC,Monday
+2028-09-29,Grand Final Day,VIC,Friday
+2028-11-07,Melbourne Cup Day,VIC,Tuesday
+2028-12-25,Christmas Day,VIC,Monday
+2028-12-26,Boxing Day,VIC,Tuesday
+2025-04-18,Good Friday,WA,Friday
+2025-04-21,Easter Monday,WA,Monday
+2025-01-01,New Year's Day,WA,Wednesday
+2025-01-27,Australia Day,WA,Monday
+2025-03-03,Labour Day,WA,Monday
+2025-04-20,Easter Sunday,WA,Sunday
+2025-04-25,ANZAC Day,WA,Friday
+2025-06-02,Western Australia Day,WA,Monday
+2025-09-29,King's Birthday,WA,Monday
+2025-12-26,Boxing Day,WA,Friday
+2025-12-25,Christmas Day,WA,Thursday
+2026-04-03,Good Friday,WA,Friday
+2026-04-06,Easter Monday,WA,Monday
+2026-01-01,New Year's Day,WA,Thursday
+2026-01-26,Australia Day,WA,Monday
+2026-03-02,Labour Day,WA,Monday
+2026-04-05,Easter Sunday,WA,Sunday
+2026-04-25,ANZAC Day,WA,Saturday
+2026-04-27,ANZAC Day (observed),WA,Monday
+2026-06-01,Western Australia Day,WA,Monday
+2026-09-28,King's Birthday,WA,Monday
+2026-12-26,Boxing Day,WA,Saturday
+2026-12-28,Boxing Day (observed),WA,Monday
+2026-12-25,Christmas Day,WA,Friday
+2027-03-26,Good Friday,WA,Friday
+2027-03-29,Easter Monday,WA,Monday
+2027-01-01,New Year's Day,WA,Friday
+2027-01-26,Australia Day,WA,Tuesday
+2027-03-01,Labour Day,WA,Monday
+2027-03-28,Easter Sunday,WA,Sunday
+2027-04-25,ANZAC Day,WA,Sunday
+2027-04-26,ANZAC Day (observed),WA,Monday
+2027-06-07,Western Australia Day,WA,Monday
+2027-09-27,King's Birthday,WA,Monday
+2027-12-26,Boxing Day,WA,Sunday
+2027-12-28,Boxing Day (observed),WA,Tuesday
+2027-12-25,Christmas Day,WA,Saturday
+2027-12-27,Christmas Day (observed),WA,Monday
+2028-04-14,Good Friday,WA,Friday
+2028-04-17,Easter Monday,WA,Monday
+2028-01-01,New Year's Day,WA,Saturday
+2028-01-03,New Year's Day (observed),WA,Monday
+2028-01-26,Australia Day,WA,Wednesday
+2028-03-06,Labour Day,WA,Monday
+2028-04-16,Easter Sunday,WA,Sunday
+2028-04-25,ANZAC Day,WA,Tuesday
+2028-06-05,Western Australia Day,WA,Monday
+2028-09-25,King's Birthday,WA,Monday
+2028-12-26,Boxing Day,WA,Tuesday
+2028-12-25,Christmas Day,WA,Monday
