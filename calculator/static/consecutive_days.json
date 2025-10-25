@@ -1,0 +1,1426 @@
+{
+    "Australian Capital Territory": {
+        "2025": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Tuesday": {
+                "Two day weekends": 44,
+                "Three day weekends": 1,
+                "Four day weekends": 6,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 44,
+                "Three day weekends": 6,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 45,
+                "Four day weekends": 7,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 44,
+                "Three day weekends": 6,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 44,
+                "Three day weekends": 6,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2026": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 50,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 0,
+                "Four day weekends": 5,
+                "Five day weekends": 2
+            },
+            "Wednesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Thursday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 0,
+                "Five day weekends": 2
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 44,
+                "Four day weekends": 8,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2027": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 44,
+                "Three day weekends": 1,
+                "Four day weekends": 6,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 6,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 44,
+                "Three day weekends": 6,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 45,
+                "Four day weekends": 6,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 44,
+                "Three day weekends": 6,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 44,
+                "Three day weekends": 6,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2028": {
+            "Monday": {
+                "Two day weekends": 1,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 0,
+                "Four day weekends": 6,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 47,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 47,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        }
+    },
+    "New South Wales": {
+        "2025": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Tuesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 1,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 47,
+                "Four day weekends": 5,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2026": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 50,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 0,
+                "Four day weekends": 3,
+                "Five day weekends": 2
+            },
+            "Wednesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Thursday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 0,
+                "Five day weekends": 2
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 6,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2027": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 1,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2028": {
+            "Monday": {
+                "Two day weekends": 1,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 49,
+                "Three day weekends": 0,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 49,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 49,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        }
+    },
+    "Northern Territory": {
+        "2025": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Tuesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 1,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 6,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2026": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 50,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 0,
+                "Four day weekends": 4,
+                "Five day weekends": 2
+            },
+            "Wednesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 0,
+                "Five day weekends": 2
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 45,
+                "Four day weekends": 7,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2027": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 1,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2028": {
+            "Monday": {
+                "Two day weekends": 1,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 0,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 48,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        }
+    },
+    "Queensland": {
+        "2025": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Tuesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 1,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 47,
+                "Four day weekends": 5,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2026": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 50,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 0,
+                "Four day weekends": 3,
+                "Five day weekends": 2
+            },
+            "Wednesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Thursday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 0,
+                "Five day weekends": 2
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 6,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2027": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 1,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 47,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2028": {
+            "Monday": {
+                "Two day weekends": 1,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 50,
+                "Three day weekends": 0,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 49,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 50,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        }
+    },
+    "South Australia": {
+        "2025": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Tuesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 1,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 6,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2026": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 50,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 0,
+                "Four day weekends": 4,
+                "Five day weekends": 2
+            },
+            "Wednesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 0,
+                "Five day weekends": 2
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 45,
+                "Four day weekends": 7,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2027": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 1,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 47,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2028": {
+            "Monday": {
+                "Two day weekends": 1,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 0,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 48,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        }
+    },
+    "Tasmania": {
+        "2025": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Tuesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 1,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 47,
+                "Four day weekends": 5,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2026": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 50,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 0,
+                "Four day weekends": 3,
+                "Five day weekends": 2
+            },
+            "Wednesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Thursday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 0,
+                "Five day weekends": 2
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 6,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2027": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 1,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2028": {
+            "Monday": {
+                "Two day weekends": 1,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 49,
+                "Three day weekends": 0,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 49,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 49,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        }
+    },
+    "Victoria": {
+        "2025": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 47,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Tuesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 2,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 3,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 47,
+                "Four day weekends": 5,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2026": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 1,
+                "Four day weekends": 3,
+                "Five day weekends": 2
+            },
+            "Wednesday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 3,
+                "Four day weekends": 1,
+                "Five day weekends": 2
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 6,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2027": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 6,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 2,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2028": {
+            "Monday": {
+                "Two day weekends": 1,
+                "Three day weekends": 47,
+                "Four day weekends": 5,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 1,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 49,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 48,
+                "Three day weekends": 3,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        }
+    },
+    "Western Australia": {
+        "2025": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 49,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Tuesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 1,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 46,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 6,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2026": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 50,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 0,
+                "Four day weekends": 5,
+                "Five day weekends": 2
+            },
+            "Wednesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Thursday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 0,
+                "Five day weekends": 2
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 44,
+                "Four day weekends": 8,
+                "Five day weekends": 0
+            },
+            "Saturday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2027": {
+            "Monday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 45,
+                "Three day weekends": 1,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 46,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 46,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 45,
+                "Three day weekends": 5,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        },
+        "2028": {
+            "Monday": {
+                "Two day weekends": 1,
+                "Three day weekends": 49,
+                "Four day weekends": 3,
+                "Five day weekends": 0
+            },
+            "Tuesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 0,
+                "Four day weekends": 5,
+                "Five day weekends": 1
+            },
+            "Wednesday": {
+                "Two day weekends": 48,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Thursday": {
+                "Two day weekends": 48,
+                "Three day weekends": 4,
+                "Four day weekends": 1,
+                "Five day weekends": 1
+            },
+            "Friday": {
+                "Two day weekends": 0,
+                "Three day weekends": 48,
+                "Four day weekends": 4,
+                "Five day weekends": 1
+            },
+            "Saturday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            },
+            "Sunday": {
+                "Two day weekends": 47,
+                "Three day weekends": 4,
+                "Four day weekends": 2,
+                "Five day weekends": 0
+            }
+        }
+    }
+}
