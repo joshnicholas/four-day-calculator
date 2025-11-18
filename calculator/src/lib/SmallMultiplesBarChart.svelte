@@ -111,7 +111,7 @@
 		<button
 			onclick={() => (scaleByWeekday = !scaleByWeekday)}
 			class="border-2 border-black"
-			style="padding: 4px 8px; cursor: pointer; background: transparent;"
+			style="padding: 4px 8px; cursor: pointer; background: transparent; border-color: black; border-width: 2px; border-style: solid;"
 		>
 			Scale by: {scaleByWeekday ? 'Weekday' : 'All data'}
 		</button>
